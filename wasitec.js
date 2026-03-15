@@ -45,7 +45,7 @@ class WasiTec {
             const response = await axios.get(`${this.apiEndpoints.primary}${endpoint}`, {
                 params,
                 headers: {
-                    'User-Agent': 'WASI-MD-V7',
+                    'User-Agent': 'FRAZ-BOT',
                     'X-API-Key': process.env.WASI_API_KEY || 'default'
                 },
                 timeout: 30000 // 30 second timeout

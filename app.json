@@ -2,7 +2,7 @@
   "name": "WASI-MD V7",
   "description": "Advanced WhatsApp Bot by ITXXWASI - Docker-based Deployment. Most settings can be configured from WhatsApp using .settings command!",
   "repository": "https://github.com/itxxwasi/wasi-md-loader",
-  "logo": "https://raw.githubusercontent.com/itxxwasi/WASI-MD-V7/master/assets/logo.png",
+  "logo": "https://raw.githubusercontent.com/itxxwasi/FRAZ-BOT/master/assets/logo.png",
   "keywords": [
     "whatsapp",
     "bot",

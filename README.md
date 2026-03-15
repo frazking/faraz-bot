@@ -1,4 +1,4 @@
-# 🤖 WASI-MD-V7 - Advanced WhatsApp Multi-Device Bot
+# 🤖 FRAZ-BOT - Advanced WhatsApp Multi-Device Bot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-7.0.0-blue?style=for-the-badge" alt="Version">
@@ -16,21 +16,21 @@
 ## 🚀 One-Click Deploy
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Itxxwasi/WASI-MD-V7">
+  <a href="https://heroku.com/deploy?template=https://github.com/Itxxwasi/FRAZ-BOT">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="https://railway.app/new/template?template=https://github.com/Itxxwasi/WASI-MD-V7">
+  <a href="https://railway.app/new/template?template=https://github.com/Itxxwasi/FRAZ-BOT">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" height="40">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/Itxxwasi/WASI-MD-V7">
+  <a href="https://render.com/deploy?repo=https://github.com/Itxxwasi/FRAZ-BOT">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Itxxwasi/WASI-MD-V7">
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Itxxwasi/FRAZ-BOT">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" height="40">
   </a>
 </p>
@@ -92,8 +92,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Itxxwasi/WASI-MD-V7.git
-cd WASI-MD-V7
+git clone https://github.com/Itxxwasi/FRAZ-BOT.git
+cd FRAZ-BOT
 
 # Install dependencies
 npm install
@@ -260,8 +260,8 @@ sudo apt install -y nodejs
 npm install -g pm2
 
 # Clone and setup
-git clone https://github.com/Itxxwasi/WASI-MD-V7.git
-cd WASI-MD-V7
+git clone https://github.com/Itxxwasi/FRAZ-BOT.git
+cd FRAZ-BOT
 npm install
 
 # Start with PM2
@@ -275,7 +275,7 @@ pm2 startup
 ## 📁 Project Structure
 
 ```
-WASI-MD-V7/
+FRAZ-BOT/
 ├── lib/
 │   ├── database.js        # MongoDB connection
 │   ├── message-handler.js # Message processing
@@ -423,5 +423,5 @@ This bot is for educational purposes only. The developer is not responsible for 
 </p>
 
 <p align="center">
-  © 2024-2026 WASI-MD-V7 | All Rights Reserved
+  © 2024-2026 FRAZ-BOT | All Rights Reserved
 </p>

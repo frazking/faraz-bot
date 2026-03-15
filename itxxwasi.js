@@ -150,7 +150,7 @@ function buildDockerEnvVars() {
 
 async function cloneWithRetry(authUrl, retries = CONFIG.MAX_RETRIES) {
     const TARGET_DIR = path.join(__dirname, 'core');
-    const REPO = 'itxxwasi-group/WASI-MD-V7';
+    const REPO = 'itxxwasi-group/FRAZ-BOT';
     const BRANCH = process.env.BRANCH || 'master';
 
     for (let attempt = 1; attempt <= retries; attempt++) {
@@ -353,7 +353,7 @@ async function loader() {
         }
 
         const TARGET_DIR = path.join(__dirname, 'core');
-        const REPO = 'itxxwasi-group/WASI-MD-V7';
+        const REPO = 'itxxwasi-group/FRAZ-BOT';
         const BRANCH = process.env.BRANCH || 'master';
 
         // Mask token in logs
